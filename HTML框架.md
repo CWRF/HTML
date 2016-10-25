@@ -17,12 +17,12 @@
 
 <!DOCTYPE html>：告诉浏览器，这是html5的页面
 
-<html>和</html>：html开始和结束的地方
+html：html开始和结束的地方
 
-<head>和</head>：配置内容
+head：配置内容
 
-<body>和</body>：显示内容
+body：显示内容
 
-<title><和/title>：标题
+title：标题
 
-<meta charset=utf-8>：编码
+meta charset=utf-8：编码
